@@ -1,4 +1,4 @@
-# -Store-Sales-data-Analysis
+
 'Vrinda Store' Data Analysis Project
 
 Project Details:
